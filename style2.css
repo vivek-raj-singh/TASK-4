@@ -1,0 +1,21 @@
+.nonpriority{
+    color: black;
+    background-color:lightgreen;
+    border: solid red;
+   font-weight: bold;
+   border-radius: 10px;
+   padding: 45px 84px 44px 50px;
+   margin: 28px 123px 90px 8px;
+   
+}
+#priority{
+    color: black;
+    background-color: lightgreen;
+    
+    border: solid red;
+    padding: 45px 84px 44px 50px;
+    margin:28px 123px 90px 8px;
+    border-radius: 10px;
+    font-weight:bold;
+    
+}
